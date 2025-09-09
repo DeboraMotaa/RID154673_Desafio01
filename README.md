@@ -26,4 +26,10 @@ A página apresenta informações sobre a tradição e experiência de uma empre
 1. **Menu Superior** – destaque inicial com título e subtítulo.  
 2. **Seção Informacional** – números relevantes sobre a empresa.  
 3. **Seção com Imagem** – texto explicativo e imagem ilustrativa.  
-4. **Formulário** – captura de leads integrado ao SheetMonkey. 
+4. **Formulário** – captura de leads integrado ao SheetMonkey.
+
+---
+
+## 🔗 Links Importantes
+- **Acesse o projeto online:** [https://68c099b83ac13acd82bac21c--celebrated-lamington-c9bc79.netlify.app/]  
+- **Acesse a planilha com os cadastros:** [https://docs.google.com/spreadsheets/d/1yiVV2lVzROp6nQQcbrGovb80Eh_v-JhaKwThxheclbs/edit?gid=0#gid=0] 
